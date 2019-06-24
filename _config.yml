@@ -45,3 +45,15 @@ skills:
   - name: Ruby on Rails
     web_url: https://rubyonrails.org/
     image_url: https://rubyonrails.org/images/rails-logo.svg
+
+  - name: Kotlin
+    web_url: https://kotlinlang.org/
+    image_url: https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png
+
+  - name: Swift
+    web_url: https://developer.apple.com/swift/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png
+    
+  - name: Unity
+    web_url: https://unity.com/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png
